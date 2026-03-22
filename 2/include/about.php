@@ -23,7 +23,7 @@
 				"npf:mediaviewer",
 				"",
 				Array(
-					"COLLECTION" => "current_docs"
+					"COLLECTION" => "archive_docs"
 				)
 			);?>
 
