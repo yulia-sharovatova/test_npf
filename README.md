@@ -6,7 +6,7 @@
 
 <details>
 <summary>Верстка</summary>
-![front_meme](https://github.com/yulia-sharovatova/test_npf/blob/main/docs/front_meme.jpg?raw=true)
+<img src="https://github.com/yulia-sharovatova/test_npf/blob/main/docs/front_meme.jpg?raw=true">
 </details>
 
 Сверстать шаблон сайта (шапку, подвал) для 1С-Битрикс: Управления сайтом.
