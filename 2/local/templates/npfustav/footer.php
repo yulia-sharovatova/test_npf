@@ -1,5 +1,5 @@
 
-		 <div class="sng__right">
+<div class="sng__right">
 
     <a href="https://npf-sng.ru/fiz-liz/dogovor-main/" class="banner-1">
         <div class="banner-1__box">
@@ -27,8 +27,9 @@
 
 
 </div>
+
 	</div>
-</div></section>
+</div>
 
 
             <!--<div class="hero slick-initialized slick-slider slick-dotted">

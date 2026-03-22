@@ -242,9 +242,10 @@ $APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/css/template.css");
 				<i class="fa fa-angle-right"></i>
 				<span class="breadcrumbs__text" itemprop="name">Устав</span>
 				<meta itemprop="position" content="2">
-			</div></div></div></div></div></div></div> <div class="sng__section">
+			</div></div></div></div></div></div></div> 
+            
+            <div class="sng__section">
 	<div class="container sng__container">
-		<div class="sng__content">
-			<div class="row">
-				<div class="col-12">
-					<div class="sng__box">
+
+
+
