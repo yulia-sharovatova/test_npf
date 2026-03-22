@@ -18,6 +18,7 @@
 
 ---
 ### Второе задание:
+<details>
 <summary>Компоненты</summary>
 <img src="https://github.com/yulia-sharovatova/test_npf/blob/main/docs/comp_meme.jpg?raw=true">
 </details>
