@@ -220,4 +220,4 @@ $APPLICATION->SetAdditionalCSS(SITE_TEMPLATE_PATH."/css/template.css");
             </div>
         </div>
 
-        <section id="main" class="main">
+        <section id="main">
