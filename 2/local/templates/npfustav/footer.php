@@ -1,4 +1,34 @@
 
+		 <div class="sng__right">
+
+    <a href="https://npf-sng.ru/fiz-liz/dogovor-main/" class="banner-1">
+        <div class="banner-1__box">
+            <img src="<?=SITE_TEMPLATE_PATH?>/image/edit.svg" alt="" class="banner-1__img">
+            <div class="banner-1__text">Как стать клиентом Фонда?</div>
+            <div class="banner-1__icon"></div>
+        </div>
+    </a>
+
+	<a href="https://npf-sng.ru/our-clients/ops-to-pds/" class="banner-1">
+        <div class="banner-1__box">
+            <img src="<?=SITE_TEMPLATE_PATH?>/image/cash5.svg" alt="" class="banner-1__img">
+            <div class="banner-1__text">Как перевести пенсионные накопления ОПС в ПДС и получить единовременно?</div>
+            <div class="banner-1__icon"></div>
+        </div>
+    </a>
+
+    <a href="https://npf-sng.ru/pens-calc/" class="banner-1">
+        <div class="banner-1__box">
+            <img src="<?=SITE_TEMPLATE_PATH?>/image/calculator.svg" alt="" class="banner-1__img">
+            <div class="banner-1__text">Калькулятор накоплений</div>
+            <div class="banner-1__icon"></div>
+        </div>
+    </a>
+
+
+</div>
+	</div>
+</div></section>
 
 
             <!--<div class="hero slick-initialized slick-slider slick-dotted">
