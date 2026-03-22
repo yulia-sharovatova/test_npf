@@ -1,7 +1,4 @@
 
-            <!--<div class="hero slick-initialized slick-slider slick-dotted">
-</div> -->
-
 		</section>
 
             <footer class="footer">
